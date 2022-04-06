@@ -1,6 +1,6 @@
 # fire_chat
 
-A new Flutter project.
+A simple Chat app with Firebase 
 
 ## Getting Started
 
