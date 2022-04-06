@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "367636404840",
+    "project_id": "fire-chat-40c22",
+    "storage_bucket": "fire-chat-40c22.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:367636404840:android:fed2a89a88dc63fe18b9dd",
+        "android_client_info": {
+          "package_name": "com.example.fire_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "367636404840-mbum0s95hukcd7fd0b84dpni5onkl7b3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCkQYg1GQ8cTFLrL3Lx6VOml38kd8y5z8k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "367636404840-mbum0s95hukcd7fd0b84dpni5onkl7b3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
