@@ -1,6 +1,7 @@
 # fire_chat
 
 A simple Chat app with Firebase 
+Not completed!
 
 ## Getting Started
 
